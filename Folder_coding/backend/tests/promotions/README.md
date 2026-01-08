@@ -1,0 +1,1 @@
+Folder_coding/backend/tests/promotions/README.md
