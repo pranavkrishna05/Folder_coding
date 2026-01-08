@@ -1,1 +1,0 @@
-Folder_coding/backend/tests/checkout/README.md
